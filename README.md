@@ -8,7 +8,8 @@ Bygger på YuE2:s egen skrivguide (`writing_guide`), egna A/B-tester och mätnin
 
 | Fil | Vad den är |
 |---|---|
-| [`styles.md`](styles.md) | Hela guiden: regler, ordlistor, låsta stilar, mätbank, mastringskedjor, felsökning |
+| [`styles.md`](styles.md) | Hela guiden på svenska: regler, ordlistor, låsta stilar, mätbank, mastringskedjor, felsökning |
+| [`styles.en.md`](styles.en.md) | Samma guide på engelska |
 
 ## Kort version
 
@@ -34,4 +35,9 @@ Ett fält, engelska, kommaseparerat, 12–50 ord, tempot sist. Bara beskrivninga
 - Loudness landar på **−9,2 till −9,5 LUFS** oavsett style-text: nivån sätts av mastringen, inte av orden.
 - Längden styrs av **antal sektioner**, inte av `duration_seconds` (som är ett tak).
 
-Detaljer, tabeller och mastringskedjor finns i [`styles.md`](styles.md).
+Detaljer, tabeller och mastringskedjor finns i [`styles.md`](styles.md) (svenska) och [`styles.en.md`](styles.en.md) (English).
+
+## Licens
+
+Texten är licensierad under [CC BY 4.0](LICENSE) — använd, ändra och dela fritt, även kommersiellt, så länge du anger källa och länk till licensen. Se [`LICENSE`](LICENSE).
+
